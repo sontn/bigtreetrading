@@ -1,6 +1,6 @@
-baseURL: "https://traderhanoi.com"
+baseURL: "https://bigtreetrading.com"
 languageCode: en-us
-title: Trader HaNoi
+title: BigTree Trading
 theme: PaperMod
 paginate: 6
 
@@ -8,7 +8,7 @@ params:
   env: production
   homeInfoParams:
     Title: "Hello"
-    Content: "Welcome to Trader Hanoi. We are Hanoian Traders. We hope that connecting consistently profitable traders around the world to share experiences and knowledges. Best regards."
+    Content: "Welcome to BigTree Trading."
 
   socialIcons:
     - name: twitter
