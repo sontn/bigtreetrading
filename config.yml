@@ -7,7 +7,6 @@ paginate: 6
 params:
   env: production
   homeInfoParams:
-    Title: "Hello"
     Content: "Welcome to BigTree Trading. Our goal is to help institutions and individuals build stronger portfolios by combining traditional and alternative investments."
 
   socialIcons:
@@ -28,8 +27,8 @@ outputs:
 
 menu:
   main:
-    - identifier: about
-      name: Buy me a coffee
-      url: /buymeacoffee/
+    - identifier: contact
+      name: Contact us
+      url: /contactus/
       weight: 50
     
