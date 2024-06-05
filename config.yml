@@ -10,6 +10,8 @@ params:
     Content: "Welcome to BigTree Trading. Our goal is to help institutions and individuals build stronger portfolios by combining traditional and alternative investments."
 
   socialIcons:
+    - name: other
+      url: "https://one.exnesstrack.net/a/s0cxkwr4tg?platform=mobile&pid=mobile_share"
     - name: twitter
       url: "https://twitter.com/nhagiaodich_com"
     - name: tiktok
